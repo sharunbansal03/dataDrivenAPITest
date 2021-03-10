@@ -1,0 +1,3 @@
+endpoint,username,password
+https://reqres.in/api/login/preprod,eve.holt@reqres.in,cityslicka
+https://reqres.in/api/login/preprod,sharun,test
